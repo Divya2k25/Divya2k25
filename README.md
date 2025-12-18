@@ -20,56 +20,43 @@
 * HTML5
 * CSS3
 * JavaScript (Basics → Intermediate)
-
-🧠 Programming & Concepts
-
-* Java (fundamentals)
-* OOPs concepts
-* DBMS basics
+* SQL
 
 🔧 Tools
 
-* Git & GitHub
+* GitHub
 * VS Code
 * Browser DevTools
 
----
 
-## 📌 What You'll Find Here
+📌 What You'll Find Here
 
 ✔️ Frontend web projects
 ✔️ Practice programs & experiments
 ✔️ Academic & mini projects
 ✔️ Continuous improvement over time
 
----
-
-## 🚀 Current Focus
+🚀 Current Focus
 
 * Building **responsive UI projects**
 * Improving **JavaScript logic**
 * Writing **clean & readable code**
 * Learning how real-world websites work
 
----
-
-## 📈 GitHub Stats
+📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divya2k25&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya2k25&layout=compact&theme=tokyonight" />
 </p>
 
----
+📫 Connect With Me
 
-## 📫 Connect With Me
+* 💼 LinkedIn: https://www.linkedin.com/in/divya-v-tech
+* 📧 Email: mailto:divyavenkatesh489@gmail.com
 
-* 💼 LinkedIn: *(add your link)*
-* 📧 Email: *(add your email)*
-
----
 
 ⭐ *Thanks for visiting my profile — feel free to explore my repositories!*
