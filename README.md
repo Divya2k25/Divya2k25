@@ -5,6 +5,7 @@
 🚀 Learning • Building • Improving every day  
 </p>
 
+
 🌟 About Me
 
 * 🎓 2nd year **BCA (Bachelor of Computer Applications)** student
@@ -12,6 +13,7 @@
 * 🎨 I enjoy creating **clean, responsive, user-friendly websites**
 * 🌱 Currently strengthening **JavaScript & Web fundamentals**
 * 📚 Believe in *learning by building real projects*
+
 
 🛠️ Skills & Tools
 
@@ -36,12 +38,14 @@
 ✔️ Academic & mini projects
 ✔️ Continuous improvement over time
 
+
 🚀 Current Focus
 
 * Building **responsive UI projects**
 * Improving **JavaScript logic**
 * Writing **clean & readable code**
 * Learning how real-world websites work
+
 
 📈 GitHub Stats
 
@@ -52,6 +56,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya2k25&layout=compact&theme=tokyonight" />
 </p>
+
 
 📫 Connect With Me
 
