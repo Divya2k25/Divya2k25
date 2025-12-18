@@ -19,7 +19,7 @@ BCA Student | Aspiring Web Developer
 
 * **Web:** HTML, CSS, JavaScript (basics)
 * **Programming:** Python (basics)
-* **Concepts:** DBMS fundamentals, Problem-solving
+* **Database:** SQL
 
 📂 What You'll Find Here
 
