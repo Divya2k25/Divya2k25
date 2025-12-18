@@ -1,49 +1,75 @@
-👋 Hi, I'm **Divya**
+<h1 align="center">Hi 👋, I'm Divya</h1>
+<h3 align="center">BCA Student | Aspiring Web Developer</h3>
 
-### BCA Student | Aspiring Web Developer
+<p align="center">
+🚀 Learning • Building • Improving every day  
+</p>
 
-🎓 3rd year BCA student passionate about learning web technologies
-💻 Focused on building simple, practical projects
-🌱 Currently strengthening frontend and programming basics
+🌟 About Me
+
+* 🎓 2nd year **BCA (Bachelor of Computer Applications)** student
+* 💻 Passionate about **Web Development & Frontend Design**
+* 🎨 I enjoy creating **clean, responsive, user-friendly websites**
+* 🌱 Currently strengthening **JavaScript & Web fundamentals**
+* 📚 Believe in *learning by building real projects*
+
+🛠️ Skills & Tools
+
+🌐 Web Development
+
+* HTML5
+* CSS3
+* JavaScript (Basics → Intermediate)
+
+🧠 Programming & Concepts
+
+* Java (fundamentals)
+* OOPs concepts
+* DBMS basics
+
+🔧 Tools
+
+* Git & GitHub
+* VS Code
+* Browser DevTools
 
 ---
 
-## 🌟 About Me
+## 📌 What You'll Find Here
 
-* Interested in **Web Development & Frontend Design**
-* Enjoy learning by **doing small projects**
-* Believe in strong fundamentals over exaggeration
-* Actively improving my technical skills step by step
-
----
-
-## 🛠️ Skills
-
-* **Web:** HTML, CSS, JavaScript (basics)
-* **Programming:** Python (basics)
-* **Database:** SQL
+✔️ Frontend web projects
+✔️ Practice programs & experiments
+✔️ Academic & mini projects
+✔️ Continuous improvement over time
 
 ---
 
-## 📂 What You'll Find Here
+## 🚀 Current Focus
 
-* Frontend practice projects
-* Academic mini projects
-* Learning-based experiments
+* Building **responsive UI projects**
+* Improving **JavaScript logic**
+* Writing **clean & readable code**
+* Learning how real-world websites work
 
 ---
 
-## 🎯 Current Focus
+## 📈 GitHub Stats
 
-* Improving JavaScript logic
-* Creating responsive web pages
-* Understanding how real websites work
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/divya-v-tech](https://www.linkedin.com/in/divya-v-tech)
-* 📧 Email: [divyavenkatesh489@gmail.com](mailto:divyavenkatesh489@gmail.com)
+* 💼 LinkedIn: *(add your link)*
+* 📧 Email: *(add your email)*
 
-⭐ Thanks for visiting my GitHub profile!
+---
+
+⭐ *Thanks for visiting my profile — feel free to explore my repositories!*
