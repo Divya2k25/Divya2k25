@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi 👋 I'm Divya
 
-<!--
-**Divya2k25/Divya2k25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Student | Aspiring Web Developer
 
-Here are some ideas to get you started:
+🎓 3rd year BCA student passionate about learning web technologies
+💻 Focused on building simple, practical projects
+🌱 Currently strengthening frontend and programming basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌟 About Me
+
+* Interested in **Web Development & Frontend Design**
+* Enjoy learning by **doing small projects**
+* Believe in strong fundamentals over exaggeration
+* Actively improving my technical skills step by step
+
+
+🛠️ Skills
+
+* **Web:** HTML, CSS, JavaScript (basics)
+* **Programming:** Python (basics)
+* **Concepts:** DBMS fundamentals, Problem-solving
+
+📂 What You'll Find Here
+
+* Frontend practice projects
+* Academic mini projects
+* Learning-based experiments
+
+🎯 Current Focus
+
+* Improving JavaScript logic
+* Creating responsive web pages
+* Understanding how real websites work
+
+📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/divya-v-tech
+* 📧 Email: mailto:divyavenkatesh489@gmail.com
+
+⭐ Thanks for visiting my GitHub profile!
