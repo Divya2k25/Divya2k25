@@ -5,6 +5,7 @@
 🚀 Learning • Building • Improving every day  
 </p>
 
+---
 
 🌟 About Me
 
@@ -14,6 +15,7 @@
 * 🌱 Currently strengthening **JavaScript & Web fundamentals**
 * 📚 Believe in *learning by building real projects*
 
+---
 
 🛠️ Skills & Tools
 
@@ -30,6 +32,7 @@
 * VS Code
 * Browser DevTools
 
+---
 
 📌 What You'll Find Here
 
@@ -38,6 +41,7 @@
 ✔️ Academic & mini projects
 ✔️ Continuous improvement over time
 
+---
 
 🚀 Current Focus
 
@@ -46,6 +50,7 @@
 * Writing **clean & readable code**
 * Learning how real-world websites work
 
+---
 
 📈 GitHub Stats
 
@@ -57,6 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexdivya&layout=compact&theme=tokyonight" />
 </p>
 
+---
 
 📫 Connect With Me
 
