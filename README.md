@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya</h1>
-<h3 align="center">BCA Student | Aspiring Web Developer</h3>
-<p align="center">
-🚀 Learning • Building • Improving every day  
-</p>
+<h3 align="center">BCA Student | Aspiring Web Developer | 🚀 Learning • Building • Improving every day</h3>
 
 ---
 
@@ -15,10 +12,6 @@
 * 📚 Believe in *learning by building real projects*
 
 ---
-
-🛠️ Skills & Tools
-
-🌐 Web Development
 
 <h3>🛠️ Tools & Technologies</h3>
 
@@ -37,7 +30,7 @@
 📌 What You'll Find Here
 
 ✔️ Frontend web projects
-✔️ Practice programs & experiments<h3>🛠️ Tools & Technologies</h3>
+✔️ Practice programs & experiments
 ✔️ Academic & mini projects
 ✔️ Continuous improvement over time
 
