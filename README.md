@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">BCA Student | Aspiring Web Developer</h3>
-
 <p align="center">
 🚀 Learning • Building • Improving every day  
 </p>
