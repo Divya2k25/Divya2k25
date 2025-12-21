@@ -28,11 +28,11 @@
 ---
 
 📌 What You'll Find Here
-
+<pre>
 ✔️ Frontend web projects
 ✔️ Practice programs & experiments
 ✔️ Academic & mini projects
-✔️ Continuous improvement over time
+✔️ Continuous improvement over time </pre>
 
 ---
 
