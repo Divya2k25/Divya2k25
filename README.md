@@ -5,7 +5,7 @@
 
 🌟 About Me
 
-* 🎓 2nd year **BCA (Bachelor of Computer Applications)** student
+* 🎓 3rd year **BCA (Bachelor of Computer Applications)** student
 * 💻 Passionate about **Web Development & Frontend Design**
 * 🎨 I enjoy creating **clean, responsive, user-friendly websites**
 * 🌱 Currently strengthening **JavaScript & Web fundamentals**
